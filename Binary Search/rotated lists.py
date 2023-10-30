@@ -58,7 +58,7 @@ tests.append({
 # A list that was rotated just once.
 tests.append({
     'input': {
-        'nums': [8, 1, 2, 3, 4, 5, 6, 7]
+        'nums': [7, 3, 5]
     },
     'output': 1
 })
